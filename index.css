@@ -1,0 +1,30 @@
+/* coloring */
+body {
+  background-color: slategray;
+}
+hr {
+  border-color: black;
+}
+footer {
+  color: black;
+}
+
+/* centering */
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+table {
+  margin: 0px auto;
+  text-align: center;
+}
+
+/* links */
+a:link {
+  color: snow;
+}
+a:visited {
+  color: snow;
+}
