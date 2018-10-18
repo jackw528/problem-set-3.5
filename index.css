@@ -1,6 +1,5 @@
-/* coloring */
 body {
-  background-image: linear-gradient(to right, white, gray, slategray);
+  background-image: linear-gradient(to left, lightgray, gray, dimgray);
 }
 hr {
   border-color: black;
@@ -8,8 +7,6 @@ hr {
 footer {
   color: black;
 }
-
-/* centering */
 h1 {
   text-align: center;
 }
@@ -19,9 +16,11 @@ h3 {
 table {
   margin: 0px auto;
   text-align: center;
+  border-color: white;
 }
-
-/* links */
+footer {
+  text-align: center;
+}
 a:link {
   color: snow;
 }
