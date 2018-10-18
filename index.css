@@ -1,6 +1,6 @@
 /* coloring */
 body {
-  background-color: slategray;
+  background-image: linear-gradient(to right, white, gray, slategray);
 }
 hr {
   border-color: black;
